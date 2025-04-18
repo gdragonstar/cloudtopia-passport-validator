@@ -17,11 +17,11 @@ When a user uploads an image to an S3 bucket:
 
 ## 🧠 Architecture Overview
 
-![CloudTopia Architecture](./CloudTopia_Architecture.png)
+![CloudTopia Architecture](./architecture-diagram.pdf)
 
 ---
 
-## ⚙️ AWS Services Used
+## ⚙️ AWS Services Used   
 
 | Service             | Purpose                                                 |
 |---------------------|----------------------------------------------------------|
