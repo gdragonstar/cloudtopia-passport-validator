@@ -1,0 +1,19 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.1",
+      "eventSource": "aws:s3",
+      "awsRegion": "us-east-1",
+      "eventTime": "2022-12-28T20:32:21.737Z",
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "bucket": {
+          "name": "cloudtopia-test"
+        },
+        "object": {
+          "key": "me_normal.png"
+        }
+      }
+    }
+  ]
+}
